@@ -6,8 +6,8 @@ spring:
       server:
         git:
           uri: https://github.com/liontalk/SpringCloud_Config
-          username:
-          password:
+          username: liontalk@163.com
+          password: Liontalk@1234
           default-label: master
 server:
-  port: 8300
+  port: 8888
